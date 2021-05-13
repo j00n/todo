@@ -1,0 +1,22 @@
+body {
+  background-color: #3cb371;
+  height: 100%;
+}
+
+/* 콘텐르를 감싸고 있는 wrapper입니다. */
+#wrapper {
+  width: 500px;
+  height: 100%;
+  margin: 0 auto; /* 가운데 정렬 */
+  background-color: white;
+}
+
+header {
+  width: 100px;
+  margin: 0 auto;
+}
+
+header h2 {
+  color: tomato;
+  text-decoration: underline;
+}
